@@ -1,0 +1,10 @@
+{
+  "title": "Cookies Policy",
+  "description": "We use third-party cookies in order to personalise your experience.",
+  "to": {
+    "label": "Read our cookie policy",
+    "url": "/policy",
+    "type": "follow"
+  },
+  "button": "Accept"
+}
