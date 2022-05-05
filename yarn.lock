@@ -9849,9 +9849,9 @@ lmdb@^2.0.2:
     lmdb-win32-x64 "2.3.7"
 
 lmdb@^2.2.6:
-  version "2.3.8"
-  resolved "https://registry.yarnpkg.com/lmdb/-/lmdb-2.3.8.tgz#24167e33fed9aad479dd6ee3e98e9a0334d75623"
-  integrity sha512-SoYYrcmJWJgIG4PSkVJiXot3m9035zE0FRUgqhgzZIO6LnikbORzBznxbSrN7SaogR95w9lgTm+LwW+Os4mN5Q==
+  version "2.3.9"
+  resolved "https://registry.yarnpkg.com/lmdb/-/lmdb-2.3.9.tgz#09bdcbd3cea243ccd496d6f5c354bc1b8b0468f0"
+  integrity sha512-PSQoxTvHSvI+ZALQTHG2M8HLzZEis/6DDPa7qtNJH3rY96xDoALweuZbG5p+7+4mgvbor2xFvEyUztBpC3/41A==
   dependencies:
     msgpackr "^1.5.4"
     nan "^2.14.2"
