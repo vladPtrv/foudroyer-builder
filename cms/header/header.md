@@ -14,7 +14,7 @@ right:
   - type: follow
     theme: button
     label: Créer un site gratuitement
-    url: /tutoriels/creer-son-premier-site/
+    url: https://app.netlify.com/start/deploy?repository=https://github.com/foudroyerdotcom/purity.foudroyer.com&stack=cms
     rel: follow
-    target: self
+    target: blank
 ---
