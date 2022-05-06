@@ -14,6 +14,10 @@ tabs:
     url: /politique
     rel: follow
     target: self
+  - label: Nous contacter
+    rel: follow
+    target: self
+    url: /nous-contacter
 actions:
   - type: follow
     theme: primary

@@ -13,6 +13,10 @@ tabs:
     rel: obfuscated
     target: self
     url: /politique-de-confidentialite/
+  - label: Nous contacter
+    rel: follow
+    target: self
+    url: /nous-contacter
 markup: © 2022 Foudroyer Purity. Tous les droits sont réservés
 networks:
   - label: Instagram
